@@ -7,10 +7,10 @@
 Tämä lisäosa luo virtuaalisen ääninäytön, joka toistaa ääniä objekteja
 (kuten painikkeet, linkit jne.) aktivoitaessa tai siirryttäessä niiden
 välillä. Ääni toistetaan sijainnissa, joka vastaa objektin sijaintia
-visuaalisella näytöllä.
+tietokoneen näytöllä.
 
-Lisäosa mahdollistaa myös ääniteemapakettien käyttöön ottamisen,
-asentamisen, poistamisen, muokkaamisen, luomisen sekä jakelun.
+Ääniteemapakettien käyttöön ottaminen, asentaminen, poistaminen,
+muokkaaminen, luominen sekä jakelu on myös mahdollista.
 
 ## Käyttö
 
