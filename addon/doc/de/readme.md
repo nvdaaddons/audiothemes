@@ -91,4 +91,4 @@ lesen Sie bitte die Datei "Copying".
 
 [1]: https://addons.nvda-project.org/files/get.php?file=ath
 
-[2]: https://addons.nvda-project.org/files/get.php?file=ath-dev
+[2]: http://addons.nvda-project.org/files/get.php?file=ath-dev
