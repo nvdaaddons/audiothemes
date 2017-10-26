@@ -1,4 +1,4 @@
-# Teme audio #
+# Audio Themes #
 
 *   Autori: Musharraf Omer și alții
 *   descărcați [versiunea stabilă][1]
