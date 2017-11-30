@@ -1,21 +1,23 @@
-# Sound-Schemata #
+# Audio-Schema #
 
 *   Autoren: Musharraf Omer und andere
 *   Herunterladen der [stabilen Version][1]
 *   Herunterladen der [Entwicklerversion][2]
 
-This add-on creates a virtual audio display that plays sounds when focusing
-or navigating objects (such as buttons, links etc...) the audio will be
-played in a location that corresponds to the object's location in the visual
-display.
+Diese Erweiterung erstellt ein virtuelles akustisches Bild der auf dem
+Bildschirm sichtbaren Objekte. Es werden Geräusche beim Fokussieren von oder
+Navigieren zwischen Objekten (z.B. Schaltflächen, Links usw.)
+wiedergegeben. Die Audioausgabe erfolgt bei Nutzung von Kopfhörern oder 5.1
+Soundsystemen an einem Ort, der der Position des Objekts in der visuellen
+Anzeige entspricht.
 
-The add-on also enables you to activate, install, remove, edit, create, and
-distribute audio theme packages.
+Das Add-On ermöglicht es Ihnen außerdem, Audio-schemenpakete zu aktivieren,
+zu installieren, zu entfernen, zu bearbeiten, zu erstellen und zu teilen.
 
 ## Bedienung
 
 Mit dieser Erweiterung können Sie drei Dinge erledigen, einschließlich die
-Verwaltung, das Anpassen und das Erstellen eines neuen Sound-Schemas.
+Verwaltung, das Anpassen und das Erstellen eines neuen Audio-Schemas.
 
 Diese Funktionen finden Sie im NVDA-Menü unter "Erweiterungen verwalten".
 
@@ -23,46 +25,46 @@ Diese Funktionen finden Sie im NVDA-Menü unter "Erweiterungen verwalten".
 
 - Hiermit können Sie die Sound-Schemata aktivieren/deaktivieren oder
   hinzufügen/entfernen.
-- In this dialogue there are some additional options including:
- - Play sounds in 3D mode: When you uncheck this box the add-on will play the sounds in mono mode (always in the centre of the audio display) regardless of the object location.
- - Speak role such as button, edit box , link etc.: When you uncheck this box NVDA will start announcing the role when focusing objects rather than ignoring it (which is the default behaviour when installing this add-on).
- - Use Synthesizer Volume: Checking this box will set the sound player of this add-on to use the active voice sound, thus making all audible output the same as the voice volume when ever you change that volume.
- - Audio Theme Volume Slider: Alternatively you can set the volume for the add-on using this slider. Setting it to 0 will mute all sounds, and 100 is the maximum volume.
-
+In diesem Dialog gibt es einige zusätzliche Optionen, wie z.B.:
+ - Sound im 3D-Modus abspielen: Wenn Sie dieses Kontrollkästchen deaktivieren, werden die Sounds im Monomodus (immer in der Mitte der Audioanzeige) abgespielt, unabhängig von der Position des Objekts auf dem Bildschirm.
+ - Rolle der Objekte ansagen z.B. Schalter, Eingabefeld, Link etc.: Wenn Sie dieses Kontrollkästchen deaktivieren, beginnt NVDA die Rolle beim Fokussieren von Objekten anzukündigen, anstatt sie zu ignorieren (Standardverhalten bei der Installation dieses Add-ons).
+ - Sprachausgabenlautstärke verwenden: Wenn Sie dieses Kontrollkästchen aktivieren, wird der Soundplayer dieser Erweiterung so eingestellt, dass alle hörbaren Audioausgaben aus der Erweiterung mit der aktuellen Lautstärke der Sprachausgabe übereinstimmen.
+ - Lautstärke-Regler für Audioschema: Alternativ können Sie die Lautstärke für die Audioausgaben der Erweiterung mit diesem Schieberegler einstellen. Wenn Sie ihn auf 0 setzen, werden alle Töne stumm geschaltet, und 100 ist die maximale Lautstärke.
 ### Aktives Sound-Schema bearbeiten
 
-- When you click on the 'Edit the active audio theme' option, a dialogue
-  will open with a list containing all the sounds contained in the currently
-  active theme. From this dialogue you can:
+- Wenn Sie auf die Option"Aktuelles Audio-Schema bearbeiten" klicken, öffnet
+  sich ein Dialog mit einer Liste aller Sounds, die im gerade aktiven Schema
+  enthalten sind. Aus diesem Dialog heraus können Sie folgendes tun:
 - Ändern: Wählen Sie einen Sound aus der Liste aus und klicken Sie dann auf
   diesen Schalter, können Sie eine Audio-Datei im Ogg- oder Wave-Format auf
   Ihrem System auswählen, die Sie damit anschließend ersetzen.
 - Entfernen: Dies entfernt den ausgewählten Klang aus dem
   Sound-Schema. Klicken Sie auf "Ja", um das Löschen zu bestätigen und die
   Datei zu entfernen.
-- Add New Sound: When clicking this button a new dialogue will be shown. From the first combo box in the newly opened dialogue select the object type you want to assign the sound to it, for example (button, link, tab, menu and so on), then click the 'Browse to an audio file' button to select the sound you want to assign for the previously selected object type. Optionally you can click the preview   button to preview the sound, and finally clicking the OK button will apply the changes and assign the selected sound to the selected object. 
-- Close: Will  exit the dialogue without performing any action.
-
+Neuen Sound hinzufügen: Wenn Sie auf diese Schaltfläche klicken, wird ein neuer Dialog angezeigt. Wählen Sie aus der ersten Combobox im neu geöffneten Dialog den Objekttyp aus, dem Sie den Sound zuweisen möchten, z.B. (Schalter, Link, Registerkarte, Menü usw.), und klicken Sie dann auf die Schaltfläche"Audiodatei suchen", um den gewünschten Sound auszuwählen. Optional können Sie auf die Vorschau-Schaltfläche klicken, um den Sound in der Vorschau wiederzugeben. Schließlich auf die Schaltfläche OK klicken, um die Änderungen zu übernehmen und den ausgewählten Sound dem ausgewählten Objekt zuzuordnen. 
+Schließen: Beendet den Dialog, ohne eine Aktion auszuführen.
 ### Neues Sound-Schema erstellen
 
-- If you have a good sound production skills you can apply them here and
-create an audio theme of your own, rather than editing an existing one. To
-do this you can follow these steps.  - Collect your audio files in one
-place, they must be in ogg or wave format, and rename them to what ever make
-sense to you. For example when I was creating the default audio theme for
-this add-on, I grouped sounds according to interaction patterns, for
-example, the combo box, the drop down button, and the split button can all
-have the same sound, while the Check box, The toggle button, and the menu
-check item can have the same sound.  - From the add-on menu click 'Create a
-new audio theme' - A dialogue will be opened asking you for some information
-about your new audio theme, including: *	Theme Name : The name of your theme
-which will be shown in the audio themes manager. This must be a valid
-windows folder name.  *	Your Name: Enter your real name or a nick name.
-*	Theme description : A Brief description about your audio theme.  - Click
-OK to move to the next step.  - In the next step a dialogue similar to the
-'Audio Themes Editor' will be shown, and from their the process is the same
-as the Theme editing process, so refer to 'Editing The Active Audio Theme'
-section.
+Wenn Sie über gute Kenntnisse in der Tonproduktion verfügen, können Sie
+diese hier anwenden und ein eigenes Audio-Schemata erstellen, anstatt ein
+bestehendes zu bearbeiten. Führen Sie dazu die folgenden Schritte aus.
+Sammeln Sie Ihre Audiodateien an einem Ort. Sie müssen im Ogg- oder
+Wave-Format vorliegen. Benennen Sie die Dateien nach ihren Wünschen um. Zum
+Beispiel, als ich das Standard-Audiodesign für dieses Add-On erstellt habe,
+habe ich die Sounds nach Interaktionsmustern gruppiert, z.B. das
+Kombinationsfeld, die Dropdown-Schaltfläche und der Split-Button hatten den
+gleichen Sound. Das gleiche mit dem Kontrollkästchen, dem Untermenü-Schalter
+und dem Menüeintrag.  Klicken Sie im Add-on-Menü auf"Neues Audio-Schemata
+erstellen" - Es öffnet sich ein Dialog, in dem Sie nach Informationen zu
+Ihrem neuen Audio-Schemata gefragt werden, z.B.: *	Name Ihres Schematas: Der
+Name Ihres Schematas, der im Audio-Schemata-Manager angezeigt wird. Dies
+muss ein gültiger Windows-Ordnername sein.  *	Ihr Name: Geben Sie Ihren
+richtigen Namen oder einen Spitznamen ein.  *	Beschreibung Ihres Schematas:
+Eine Kurzbeschreibung über Ihr Audio-Schemata.  Klicken Sie auf OK, um zum
+nächsten Schritt zu gelangen.  Im nächsten Schritt wird ein Dialog
+angezeigt, der ähnlich dem Audioschemataeditor' ist, und von dort aus ist
+der Prozess derselbe wie der Prozess beim Bearbeiten eines Schematas, siehe
+Abschnitt Bearbeiten des aktiven Audio-Schematas'.
 
 ## Copyright:
 
