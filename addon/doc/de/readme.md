@@ -46,7 +46,7 @@ Schließen: Beendet den Dialog, ohne eine Aktion auszuführen.
 ### Neues Sound-Schema erstellen
 
 Wenn Sie über gute Kenntnisse in der Tonproduktion verfügen, können Sie
-diese hier anwenden und ein eigenes Audio-Schemata erstellen, anstatt ein
+diese hier anwenden und ein eigenes Audio-Schemata erstellen anstatt ein
 bestehendes zu bearbeiten. Führen Sie dazu die folgenden Schritte aus.
 Sammeln Sie Ihre Audiodateien an einem Ort. Sie müssen im Ogg- oder
 Wave-Format vorliegen. Benennen Sie die Dateien nach ihren Wünschen um. Zum
