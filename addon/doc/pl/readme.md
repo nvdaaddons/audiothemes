@@ -1,92 +1,93 @@
 # Audio Themes #
 
 *   Autorzy: Musharraf Omer i inni
-*   pobierz [stabilna wersja][1]
+*   pobierz [wersja stabilna][1]
 *   pobierz [wersja rozwojowa][2]
 
 Ten dodatek tworzy wirtualny dźwiękowy wyświetlacz, który odtwarza dźwięki
-przy nawigacji lub najeżdżaniu na objekt (tak jak przyciski, linki itd...)
-dźwięk będzie ottworzony w lokalizacji, która odpowiada lokacji objektu na
-monitorze.
+podczas nawigacji lub najeżdżania na obiekty, takie jak przyciski, linki
+itd. Dźwięk będzie ottworzony w lokalizacji, która odpowiada lokalizacji
+objektu na ekranie.
 
 Dodatek umożliwia także aktywowanie, instalowanie, usuwanie, edytowanie,
-tworzenie, i dystrybucję pakietów tematów dźwiękowych.
+tworzenie i dystrybucję pakietów tematów dźwiękowych.
 
-## Używanie
+## Użycie
 
-Ten dodatek umożliwia wykonywanie następujących czynności, włączając w to
-instalowanie tematów dźwiękowych, edytowanie aktualnie używanego tematu
-dźwiękowego, a także tworzenie nowych tematów dźwiękowych.
+Ten dodatek umożliwia wykonywanie następujących czynności: instalowanie
+tematów dźwiękowych, edytowanie aktualnie używanego tematu dźwiękowego oraz
+tworzenie nowych tematów dźwiękowych.
 
-Można się dostać do tych funkcji z meni dodatku, znajdującego się w głownym
-meni NVDA.
+Funkcje te są dostępne w menu dodatku, które znajduje się w głównym menu
+NVDA.
 
-### Zarżądzanie tematami dźwiękowymi
+### Zarządzanie tematami dźwiękowymi
 
-- Okno dialogowe 'zarządzaj tematami dźwiękowymi' umożliwia aktywację, albo
-  dezaktywację, oraz dodatku instalowanie lub usuwanie tematów dźwiękowych.
+- Okno dialogowe "zarządzaj tematami dźwiękowymi" umożliwia aktywację i
+  dezaktywację oraz instalowanie i usuwanie tematów dźwiękowych.
 - W tym oknie dialogowym znajdują się następujące opcje:
- - Odtwarzaj dźwięk w trybie 3D: Przy odznaczaniu tego pola wyboru, dodatek będzie odtwarzał dźwięki w trybie mono (Zawsze na środku wyświetlacza dźwiękowego) niezależnie od położenia obiektu.
- - Wymawiaj nazwy kontrolek, takie jak przycisk, pole do edycji, link itd.: Kiedy to pole do wyboru jest odznaczone, NVDA będzie oznajmiał nazwy kontrolek przy przemieszczaniu się nie ignorując ję (co jest domyślnym zachowaniem, gdy dodatek jest instalowany).
- - Używaj głośność syntezatora: Zaznaczając to pole do wyboru, ustawi ottwarzacz dźwięków tego dodatku aby używał dźwięk aktywnego głosu, czyniąc wyjście dźwięku wyrównanym przy każdym razie, gdy zmieniasz głośność syntezatora.
- - suwak głośności tematu dźwiękowego: alternatywnie, można zmienić głośność dodatku używając ten suwak. Setting it to 0 will mute all sounds, and 100 is the maximum volume.
+ - Odtwarzaj dźwięk w trybie 3D: Po zaznaczeniu tego pola wyboru, dodatek będzie odtwarzał dźwięki w trybie mono (Zawsze na środku wyświetlacza dźwiękowego) niezależnie od położenia obiektu.
+ - Wymawiaj nazwy kontrolek, takich jak przycisk, pole edycyjne, link itd.: Kiedy to pole wyboru jest odznaczone, NVDA będzie oznajmiać nazwy kontrolek przy przemieszczaniu się nie ignorując ich (co jest domyślnym zachowaniem, gdy dodatek jest instalowany).
+ - Używaj głośności syntezatora: Po zaznaczeniu tego pola wyboru, ottwarzacz dźwięków dodatku będzie używał dźwięku aktywnego głosu. Dzięki temu, dźwięki dodatku będą miały taką samą głośność jak aktywny głos, przy każdej zmianie głośności syntezatora.
+ - suwak głośności tematu dźwiękowego: alternatywnie, można zmienić głośność dodatku używając tego suwaka. Ustawienie go na 0 wycisza wszystkie dźwięki dodatku, a 100 to maksymalna głośność.
 
 ### Edycja aktywnego tematu dźwiękowego:
 
-- Gdy klikniesz na przycisk 'edytuj aktywny temat dźwiękowy', zosanie
-  otwarte okno dialogowe, zawierające wszystkie dostępne dźwięki znajdujące
-  się w aktualnie aktywnym temacie dźwiękowym. Z tego okna dialogowego można
-  wykonać następujące czynności:
-- Zmień oznaczone: zaznaczając dźwięk z listy naciśnięcie tego przycisku,
-  otwiera standardowy dialog do otwierania pliku, zaznacz plik ogg lub wav z
-  systemu plików, aby zamienić zaznaczony dźwięk, kliknij OK, aby zakończyć
-  akcję.
-- Usuń zaznaczenie: To usunie zaznaczony dźwięk z tematu, kliknij 'tak' aby
-  potwierdzić proces usunięcia, a dźwięk zostanie usunięty.
-- Dodaj nowy dźwięk: Po kliknięciu tego przycisku zostanie wyświetlone nowe okno dialogowe. Z pierwszego pola kombi w nowootwartym dialogu, zaznacz typ obiektu do którego chcesz przypisać dźwięk, na przykład (przycisk, link, tab, meni itd.), a następnie kliknij przycisk 'przeglądaj' aby wybrać plik dźwiękowy do przypisanego wcześniej obiektu. Opcjonalnie, możesz kliknąć przycisk posłuchaj, i na koniec kliknij OK, aby zastosować dźwięk do typu obiektu. 
+- Gdy klikniesz na przycisk "edytuj aktywny temat dźwiękowy", otworzy się
+  okno dialogowe, zawierające wszystkie dostępne dźwięki, które znajdują się
+  w aktualnie aktywnym temacie dźwiękowym. Można tam wykonać następujące
+  czynności:
+- Zmień oznaczone: po zaznaczeniu dźwięku z listy i naciśnięciu tego
+  przycisku, otworzy się standardowy dialog otwierania pliku. Zaznacz plik
+  ogg lub wav z systemu plików, aby zamienić zaznaczony dźwięk. Kliknij OK,
+  aby zakończyć akcję.
+- Usuń zaznaczenie: usunie zaznaczony dźwięk z tematu. Kliknij "tak", aby
+  potwierdzić proces usunięcia. Dźwięk zostanie usunięty.
+- Dodaj nowy dźwięk: Po kliknięciu tego przycisku zostanie wyświetlone nowe okno dialogowe. W pierwszym polu kombi tego dialogu zaznacz typ obiektu do którego chcesz przypisać dźwięk, na przykład przycisk, link, tab, menu itd. Następnie kliknij przycisk "przeglądaj", aby wybrać plik dźwiękowy do przypisanego wcześniej obiektu. Opcjonalnie, możesz kliknąć przycisk posłuchaj. Kliknij OK, aby zastosować dźwięk do typu obiektu. 
 - Zamknij: Zamyka dialog bez zastosowania żadnej akcji.
 
 ### Tworzenie nowego tematu dźwiękowego
 
-- Jeżeli masz dobre zdolności do produkcji dźwięku możesz ję tutaj
-zastosować, i stworzyć swój własny temat dźwiękowy, nie edytując
-istniejącego. Aby to zrobić, śledź następujące kroki.  - Zachowaj pliki
-dźwiękowe w jednym miejscu, muszą być w formacie .wav lub .ogg, i zmień im
-nazwę na jakąs sensowną. Na przykład, tworząc włąsny temat dźwiękowy,
-pogrupowałem dźwięki według wzorców interakcyjnych, na przykład, pole kombi,
-przycisk podzielony, i rozdzielony przycisk, mogą mieć ten sam dźwięk, pole
-do wyboru, przycisk zaznaczania i element do zaznaczania mogą mieć ten sam
-dźwięk.  - z meni dodatku, kliknij 'stwórż nowy temat dźwiękowy' - otworzy
-się dialog, w którym trzeba będzie podać niektóre informacje o temacie
-dźwiękowym, włączając w to: *	nazwę tematu: nazwę tematu która będzie
-wyświetlana w menedżerze tematów. to musi być poprawna nazwa katalogu w
-Windows.  *	imię: Wpisz swoje imię lub ksywe.  *	opis tematu : szczególny
-opis tematu.  - Kliknij OK, aby się przenieść na następny krok.  - W
-następnym kroku, otworzy się dialog podobny do dialogu 'edytora tematów
-dźwiękowych', a potem proces jest taki sam, jak proces edytowania tematu
-dźwiękowego, czyli, popatrz na 'sekcje edytowanie tematu dźwiękowego'.
+- Jeżeli masz zdolności w zakresie produkcji dźwięku, możesz je tutaj
+wykorzystać i stworzyć swój własny temat dźwiękowy, zamiast edytować już
+istniejący. Aby to zrobić, wykonaj następujące kroki.  - Zbierz pliki
+dźwiękowe w jednym miejscu, (muszą być w formacie .wav lub .ogg) i zmień im
+nazwy tak, aby wiedzieć, do czego ma być użyty każdy z nich. Kiedy tworzyłem
+domyślny temat dźwiękowy dla tego dodatku, pogrupowałem dźwięki według
+wzorców interakcyjnych. na przykład, pole kombi, przycisk podzielony i
+przycisk rozdzielony mają jeden dźwięk, natomiast pole wyboru, przycisk
+przełączania i element zaznaczania mają kolejny dźwięk.  - Z menu dodatku,
+wybierz "stwórz nowy temat dźwiękowy' - otworzy się dialog, w którym trzeba
+będzie podać kilka informacji o nowym temacie dźwiękowym, takich jak:
+*	Nazwa tematu: nazwa tematu która będzie wyświetlana w menedżerze tematów.
+Musi to być poprawna nazwa katalogu w Windows.  *	Twoje imię: Wpisz swoje
+prawdziwe imię lub pseudonim.  *	Opis tematu : krótki opis tematu.  -
+Kliknij OK, aby przejść do następnego kroku.  - W następnym kroku, pojawi
+się dialog podobny do dialogu 'edytora tematów dźwiękowych', dalsza część
+procesu jest taka sama jak proces edytowania tematu dźwiękowego. Zajrzyj do
+sekcji 'edytowanie tematu dźwiękowego'.
 
 ## Prawa autorskie:
 
 Prawa autorskie (c) 2014-2016 Musharraf Omer i inni
 
-Chociaż ten dodatek startował jako niezależny projekt, stał się on jednak
+Chociaż ten dodatek pierwotnie był niezależnym projektem, z czasem stał się
 ulepszoną wersją dodatku 'Unspoken' napisanego przez Austina Hicksa i Bryana
-Smarta. Rozwijanie dodatku poszło w stronę dodawania funkcji do, edytowania
-i tworzenia pakietów tematów dźwiękowych. Czyli, wielkie dzięki dla nich, że
-stworzyli ten cudowny dodatek, i możliwość zbudowania go w ramach
-istniejącego.
+Smarta. Zaczęto skupiać się przede wszystkim na dodawaniu funkcji do
+edytowania i tworzenia pakietów tematów dźwiękowych. Bardzo dziękujemy
+pierwszym twórcom tego wspaniałego dodatku za to, że powierzyli nam efekt
+swojej pracy i jego dalszy rozwój.
 
-## Uwaga o plikach trzeciej strony:
+## Uwaga na temat plików dźwiękowych trzeciej strony:
 
-**Domyślny** pakiet tematów dźwiękowych używa dźwięki z różnych źródeł,
-tutaj jest spis źrudeł: - Unspoken 3D Audio: dodatek dla NVDA - TWBlue: A
-bespłatni i wolny klient twittera - Mushy TalkBack: alternatywny TAlkBack z
-lepszymi dźwiękami.
+**Domyślny** pakiet tematów dźwiękowych tego dodatku zawiera dźwięki
+pochodzące z różnych źródeł, Poniżej spis źrudeł: - Unspoken 3D Audio:
+dodatek dla NVDA - TWBlue: Bespłatny i wolny klient twittera - Mushy
+TalkBack: alternatywny TAlkBack z lepszymi dźwiękami.
 
 ## Licencja
-Licencjonowano pod GNU General Public License. Zobacz plik **copying** dla
-więcej informacji.
+Licencjonowano na warunkach GNU General Public License. Więcej informacji w
+pliku **copying** .
 
 [[!tag dev stable]]
 
