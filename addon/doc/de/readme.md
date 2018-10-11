@@ -1,8 +1,8 @@
 # Audio-Schema #
 
 *   Autoren: Musharraf Omer und andere
-*   Herunterladen der [stabilen Version][1]
-*   Herunterladen der [Entwicklerversion][2]
+*   [Stabile Version herunterladen][1]
+*   [Testversion herunterladen][2]
 
 Diese Erweiterung erstellt ein virtuelles akustisches Bild der auf dem
 Bildschirm sichtbaren Objekte. Es werden Geräusche beim Fokussieren von oder
