@@ -5,8 +5,8 @@
 *   pobierz [wersja rozwojowa][2]
 
 Ten dodatek tworzy wirtualny dźwiękowy wyświetlacz, który odtwarza dźwięki
-podczas nawigacji lub najeżdżania na obiekty, takie jak przyciski, linki
-itd. Dźwięk będzie ottworzony w lokalizacji, która odpowiada lokalizacji
+podczas nawigacji lub wskazywania obiektów, takich jak przyciski, linki
+itd. Dźwięk będzie odtworzony w lokalizacji, która odpowiada położeniu
 objektu na ekranie.
 
 Dodatek umożliwia także aktywowanie, instalowanie, usuwanie, edytowanie,
