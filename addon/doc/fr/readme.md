@@ -4,22 +4,22 @@
 *   Télécharger [version stable][1]
 *   Télécharger [version de développement][2]
 
-Ce module complémentaire crée un affichage audio virtuel qui joue des sons
-quand il est sur le focus ou la navigation par objet (tels que des boutons,
-liens, etc...) l’audio se jouera dans un endroit qui correspond à
-l'emplacement de l'objet dans l'affichage visuel.
+Cette extension crée un affichage audio virtuel qui joue des sons quand il
+est sur le focus ou la navigation par objet (tels que des boutons, liens,
+etc...) l’audio se jouera dans un endroit qui correspond à l'emplacement de
+l'objet dans l'affichage visuel.
 
-Le module complémentaire permet également d’activer, installer, supprimer,
-modifier, créer et de distribuer des paquets de thème audio.
+L'extension permet également d’activer, installer, supprimer, modifier,
+créer et de distribuer des paquets de thème audio.
 
 ## Utilisation
 
-Ce module complémentaire vous permet d'effectuer trois tâches distinctes, y
-compris la gestion de vos thèmes audio installés, l'édition du thème audio
+Cette extension vous permet d'effectuer trois tâches distinctes, y compris
+la gestion de vos thèmes audio installés, l'édition du thème audio
 actuellement actif et la création d'un nouveau thème audio.
 
-Vous pouvez accéder à ces fonctions depuis le menu du module complémentaire
-qui se trouve dans le menu principal de NVDA.
+Vous pouvez accéder à ces fonctions depuis le menu de l'extension qui se
+trouve dans le menu principal de NVDA.
 
 ### Gérer Vos Thèmes Audio
 
@@ -38,7 +38,7 @@ qui se trouve dans le menu principal de NVDA.
   dialogue s’ouvre avec une liste contenant tous les sons contenus dans le
   thème actuellement actif. Depuis ce dialogue, vous pouvez :
 - Changement Sélectionné : En sélectionnant un son dans la liste et en
-  cliquant sur ce bouton, il va ouvrir un dialogue standard ouvrir fichier,
+  cliquant sur ce bouton, un dialogue standard ouvrir fichier va s'ouvrir,
   sélectionnez un fichier audio ogg ou wave depuis votre système de fichiers
   pour remplacer le son sélectionné et cliquez sur OK pour terminer le
   processus.
@@ -75,21 +75,21 @@ modification de thème, voir aussi la section "Édition Du Thème Audio Actif".
 
 Copyright (c) 2014-2016 Musharraf Omer et Autres
 
-Bien que ce module complémentaire a commencé comme un projet indépendant, il
-a évolué pour être une version améliorée du module complémentaire "Unspoken"
-par Austin Hicks et Bryan Smart. La majorité du développement de ce module
-complémentaire est entré en créant les outils pour gérer, modifier et créer
-des paquets de thème audio. Donc un grand Merci à eux pour créer un
-merveilleux module complémentaire, et faire celui-ci disponible pour nous
-afin de construire par-dessus de leur travail.
+Bien que cette extension ait commencé comme un projet indépendant, elle a
+évolué pour être une version améliorée de l'extension "Unspoken" par Austin
+Hicks et Bryan Smart. La majorité du développement de cette extension a
+consisté à créer les outils pour gérer, modifier et créer des paquets de
+thème audio. Donc un grand Merci à eux pour avoir créé une merveilleuse
+extension, et nous l'avoir rendue disponible afin de construire par-dessus
+leur travail.
 
 ## Une Note sur les fichiers audio Tiers partie :
 
-Le paquet du thème audio **Par défaut** dans ce module complémentaire
-utilise des sons provenant de plusieurs sources, voici un détail pour eux :
-- Unspoken 3D Audio : Un module complémentaire pour NVDA - TWBlue : Un
-client  twitter gratuite et à source ouverte - Mushy TalkBack : Une
-alternative talkback avec des meilleurs sons.
+Le paquet du thème audio **Par défaut** dans cette extension utilise des
+sons provenant de plusieurs sources, en voici le détail : - Unspoken 3D
+Audio : Une extension pour NVDA - TWBlue : Un client  twitter gratuit et à
+source ouverte - Mushy TalkBack : Une alternative talkback avec de meilleurs
+sons.
 
 ## Licence
 Publié sous la GNU GPL (General Public License). Consultez le fichier
