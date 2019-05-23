@@ -2,7 +2,7 @@
 
 *   Autoren: Musharraf Omer und andere
 *   [Stabile Version herunterladen][1]
-*   [Testversion herunterladen][2]
+*   [Entwicklerversion herunterladen][2]
 
 Diese Erweiterung erstellt ein virtuelles akustisches Bild der auf dem
 Bildschirm sichtbaren Objekte. Es werden Geräusche beim Fokussieren von oder
