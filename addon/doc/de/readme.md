@@ -31,7 +31,7 @@ In diesem Dialog gibt es einige zusätzliche Optionen, wie z.B.:
  - Sprachausgabenlautstärke verwenden: Wenn Sie dieses Kontrollkästchen aktivieren, wird der Soundplayer dieser Erweiterung so eingestellt, dass alle hörbaren Audioausgaben aus der Erweiterung mit der aktuellen Lautstärke der Sprachausgabe übereinstimmen.
  - Lautstärke-Regler für Audioschema: Alternativ können Sie die Lautstärke für die Audioausgaben der Erweiterung mit diesem Schieberegler einstellen. Wenn Sie ihn auf 0 setzen, werden alle Töne stumm geschaltet, und 100 ist die maximale Lautstärke.
 
-### Aktives Sound-Schemata bearbeiten
+### Aktives Sound-Schemata bearbeiten:
 
 - Wenn Sie auf die Option"Aktuelles Audio-Schema bearbeiten" klicken, öffnet
   sich ein Dialog mit einer Liste aller Sounds, die im gerade aktiven Schema
