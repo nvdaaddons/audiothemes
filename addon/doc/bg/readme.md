@@ -99,7 +99,7 @@ Smart. По-голямата част от усилията по разрабо�
 Лицензирано под GNU General Public License. Прегледайте файла **copying** за
 повече подробности.
 
-[[!tag dev stable]]
+[[!tag dev]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=ath
 

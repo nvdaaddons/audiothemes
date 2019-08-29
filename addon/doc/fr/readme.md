@@ -95,7 +95,7 @@ sons.
 Publié sous la GNU GPL (General Public License). Consultez le fichier
 **copying** pour plus de détails.
 
-[[!tag dev stable]]
+[[!tag dev]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=ath
 

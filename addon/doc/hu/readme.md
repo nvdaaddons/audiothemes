@@ -84,7 +84,7 @@ hangokkal.
 GNU General Public License licensz. Bővebb információkért olvassa el a
 **copying** fájlt.
 
-[[!tag dev stable]]
+[[!tag dev]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=ath
 

@@ -92,7 +92,7 @@ Client.- Mushy TalkBack: Ein alternativer Talkback mit besseren Sounds.
 Lizenziert unter der GNU General Public License. Für weitere Informationen
 lesen Sie bitte die Datei "Copying".
 
-[[!tag dev stable]]
+[[!tag dev]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=ath
 

@@ -89,7 +89,7 @@ TalkBack: Um Talkback alternativo com sons melhores.
 Licenciado sob a Licença Pública Geral GNU. Vide o ficheiro **copying** para
 mais detalhes.
 
-[[!tag dev stable]]
+[[!tag dev]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=ath
 

@@ -89,7 +89,7 @@ twitter client - Mushy TalkBack: An alternative talkback with better sounds.
 Realizzato con Licenza GNU General Public License. Si veda il file
 **copying**  per ulteriori informazioni
 
-[[!tag dev stable]]
+[[!tag dev]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=ath
 

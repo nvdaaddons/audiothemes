@@ -87,7 +87,7 @@ alternativ cu sunete îmbunătățite.
 Licențiat de GNU General Public License. Citiți fișierul **copying** pentru
 mai multe detalii.
 
-[[!tag dev stable]]
+[[!tag dev]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=ath
 

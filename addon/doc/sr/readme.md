@@ -85,7 +85,7 @@ boljim zvukovima.
 Licencirano pod GNU General Public License. Pročitajte datoteku copying za
 više detalja.
 
-[[!tag dev stable]]
+[[!tag dev]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=ath
 

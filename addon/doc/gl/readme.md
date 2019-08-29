@@ -90,7 +90,7 @@ twitter - Mushy TalkBack: unha alternativa de talkback con mellores sons.
 Licenciado baixo a GNU General Public License. Consulta o ficheiro
 **copying** para máis detalles.
 
-[[!tag dev stable]]
+[[!tag dev]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=ath
 

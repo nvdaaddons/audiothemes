@@ -88,7 +88,7 @@ Vaihtoehtoinen TalkBack-ruudunlukuohjelma Androidille paremmilla äänillä.
 Tämä lisäosa on GNU General Public License -lisenssin alainen. Katso
 lisätietoja **copying**-tiedostosta.
 
-[[!tag dev stable]]
+[[!tag dev]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=ath
 

@@ -91,7 +91,7 @@ en alternativ talkback med bedre lyde.
 Licenseret under GNU General Public License. Se filen **copying** for flere
 detaljer.
 
-[[!tag dev stable]]
+[[!tag dev]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=ath
 

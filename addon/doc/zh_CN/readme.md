@@ -50,7 +50,7 @@ TWBlue：免费和开源的twitter客户端 -  Mushy话语提示：有更好声�
 ## 许可证
 此插件基于GNU通用公共许可证进行分发，想获取和查看许可。请参阅许可证文档**。
 
-[[!tag dev stable]]
+[[!tag dev]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=ath
 
