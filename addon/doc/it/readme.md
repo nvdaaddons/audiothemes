@@ -43,29 +43,33 @@ componente aggiuntivo situato al menu principale di NVDA.
 - Remove Selected: This will remove the selected sound from the theme, click
   'Yes' to confirm the removal process, and the selected sound will be
   removed.
-- Add New Sound: When clicking this button a new dialogue will be shown. From the first combo box in the newly opened dialogue select the object type you want to assign the sound to it, for example (button, link, tab, menu and so on), then click the 'Browse to an audio file' button to select the sound you want to assign for the previously selected object type. Optionally you can click the preview   button to preview the sound, and finally clicking the OK button will apply the changes and assign the selected sound to the selected object. 
-- Close: Will  exit the dialogue without performing any action.
+- Aggiungi nuovo suono: quando si fa clic su questo pulsante verrà mostrata una nuova finestra di dialogo. Dalla prima casella combinata nella finestra di dialogo appena aperta, selezionare il tipo di oggetto a cui si desidera assegnare il suono, ad esempio (pulsante, collegamento, scheda, menu e così via), quindi fare clic sul pulsante "Cerca un file audio" per selezionare il suono che si desidera assegnare per il tipo di oggetto precedentemente selezionato. Facoltativamente, è possibile fare clic sul pulsante di anteprima per visualizzare l'anteprima del suono e infine fare clic sul pulsante OK per applicare le modifiche e assegnare il suono all'oggetto selezionato. 
+
+- Chiudi: consente di uscire dalla finestra senza eseguire alcuna azione. \N
 
 ### Creazione di un nuovo tema audio
 
-- If you have a good sound production skills you can apply them here and
-create an audio theme of your own, rather than editing an existing one. To
-do this you can follow these steps.  - Collect your audio files in one
-place, they must be in ogg or wave format, and rename them to what ever make
-sense to you. For example when I was creating the default audio theme for
-this add-on, I grouped sounds according to interaction patterns, for
-example, the combo box, the drop down button, and the split button can all
-have the same sound, while the Check box, The toggle button, and the menu
-check item can have the same sound.  - From the add-on menu click 'Create a
-new audio theme' - A dialogue will be opened asking you for some information
-about your new audio theme, including: *	Theme Name : The name of your theme
-which will be shown in the audio themes manager. This must be a valid
-windows folder name.  *	Your Name: Enter your real name or a nick name.
-*	Theme description : A Brief description about your audio theme.  - Click
-OK to move to the next step.  - In the next step a dialogue similar to the
-'Audio Themes Editor' will be shown, and from their the process is the same
-as the Theme editing process, so refer to 'Editing The Active Audio Theme'
-section.
+- Se hai una buona conoscenza di produzione del suono, puoi metterla in
+pratica e creare un tuo tema audio, anziché modificarne uno esistente. Per
+farlo puoi seguire questi passaggi. Raccogli i tuoi file audio in un unico
+posto, devono essere in formato ogg o wave e rinominali in qualsiasi cosa
+abbia senso per te. Ad esempio, quando stavo creando il tema audio
+predefinito per questo componente aggiuntivo, ho raggruppato i suoni in base
+ai modelli di interazione, ad esempio la casella combinata, il pulsante a
+discesa e il pulsante di divisione possono avere tutti lo stesso suono, e
+allo stesso modo la casella di controllo, il pulsante di attivazione /
+disattivazione e la voce di controllo del menu possono avere lo stesso suono
+anch'essi.
+Dal menu del componente aggiuntivo fai clic su "Crea un nuovo tema audio":
+verrà aperta una finestra di dialogo che ti chiederà alcune informazioni sul
+nuovo tema audio, tra cui: * 	 Nome Tema: il nome del tema che verrà
+mostrato nel gestore temi audio. deve essere un nome di cartella di Windows
+valido. * 	Il tuo nome: inserisci il tuo vero nome o un nickname. * 	
+Descrizione tema: una breve descrizione del tuo tema audio. - Fare clic su
+OK per passare al passaggio successivo. - Nella fase successiva verrà
+mostrato una finestra simile a "Editor temi audio" il processo di modifica è
+il medesimo, quindi fai riferimento alla sezione "Modifica del tema audio
+attivo".
 
 ## Copyright:
 
