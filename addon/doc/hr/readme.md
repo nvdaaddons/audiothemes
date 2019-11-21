@@ -1,91 +1,87 @@
-# Audio Themes #
+# Zvučne teme (Audio Themes) #
 
-*   autori: Musharraf Omer i drugi
-*   Preuzmite [stabilnu inačicu][1]
-*   preuzmite [razvojnu inačicu][2]
+*   Autori: Musharraf Omer i drugi
+*   Preuzmi [stabilnu verziju][1]
+*   Preuzmi [razvojnu verziju][2]
 
-Ovaj dodatak kreira virtualni zvučni prikaz koji reproducira zvuk dok se
-krećete između objekata ili ste fokusirani na određeni objekt (kao što su
-gumbi, linkovi itd...), zvuk će se reproducirati na mjestu koje odgovara
-mjestu prikaza objekta na zaslonu. 
+Ovaj dodatak izrađuje virtualni zvučni prikaz koji reproducira zvukove
+tijekom fokusiranja objekta ili tijekom kretanja između objekata. Zvuk će se
+reproducirati na mjestu koje odgovara mjestu objekta u vizualnom prikazu.
 
-Dodatak vam također omogućava da aktivirate, instalirate, uklonite,
-uređujete, kreirate i distribuirate pakete zvučnih tema.
+Dodatak također omogućuje aktiviranje, instaliranje, uklanjanje, uređivanje,
+izradu i distribuiranje paketa zvučnih tema.
 
-## Korištenje 
+## Primjena
 
-Ovaj dodatak omogućava izvođenje tri tipa zadataka, uključujući upravljanje
-trenutno instaliranim zvučnim temama, uređivanje trenutno aktivne zvučne
-teme, te kreiranje nove zvučne teme. 
+Ovaj dodatak omogućuje izvođenje triju različitih zadataka, uključujući
+upravljanje trenutačno instaliranim zvučnim temama, uređivanje trenutačno
+aktivne zvučne teme, te kreiranje nove zvučne teme.
 
-Ovim funkcijama možete pristupiti iz podizbornika Dodaci koji se nalazi u
+Funkcijama se može pristupiti u podizborniku „Dodaci”, koji se nalazi u
 glavnom NVDA izborniku.
 
-### Upravljanje zvučnim temama 
+### Upravljanje zvučnim temama
 
-- Dijaloški okvir 'Upravljanje zvučnim temama' omogućuje vam da aktivirate
-  ili deaktivirate zvučne teme, kao i instaliranje ili uklanjanje istih.
-- U ovom dijaloškom okviru nalaze se i neke dodatne opcije uključujući:
- - Reproduciraj zvukove u 3d modu: Kada ova opcija nije omogućena, dodatak će uvijek reproducirati zvukove u mono režimu(uvijek u centru zvučnog prikaza) nezavisno od lokacije objekta.
- - Izgovori naziv kao što je gumb, polje za uređivanje, link i tako dalje.: Kada je ova opcija onemogućena, NVDA će izgovarati nazive objekata(što je podrazumijevano nakon instalacije ovog dodatka).
- - Koristi glasnoću govorne sinteze: ukljućivanjem ove opcije dodatak će koristiti glasnoću govorne sinteze Što čini zvukove jednake glasnoće, čak i kada smanjite glasnoću govorne sinteze.
- - Klizač za glasnoću zvučne teme: Alternativno možete podesiti glasnoću dodatka uz pomoć ovog klizača. Ako je podešen na 0, svi zvukovi će biti isključeni, a 100 je maksimalna glasnoća.
+- Dijaloški okvir „Upravljanje zvučnim temama” omogućuje aktiviranje ili
+  deaktiviranje zvučnih tema, kao i njihovo instaliranje ili uklanjanje.
+- U ovom dijaloškom okviru se nalaze i neke dodatne opcije uključujući:
+ - Reproduciraj zvukove u 3d modusu: Kad je ova opcija isključena, dodatak će uvijek reproducirati zvukove u mono modusu (uvijek u centru zvučnog prikaza) neovisno o lokaciji objekta.
+ - Izgovori naziv kao što je gumb, polje za uređivanje, poveznica itd.: Kad je ova opcija isključena, NVDA će izgovarati nazive objekata (standardni način rada nakon instaliranja ovog dodatka).
+ - Koristi glasnoću govorne jedinice: uključivanjem ove opcije, dodatak će koristiti glasnoću govorne jedinice, čime se izjednačava glasnoća zvukova, čak i kad se smanji glasnoća govorne jedinice.
+ - Klizač za glasnoću zvučne teme: Alternativno je moguće podesiti glasnoću dodatka uz pomoć ovog klizača. Ako je podešen na 0, svi zvukovi će biti isključeni, a 100 je maksimalna glasnoća.
 
-### Uređivanje aktivne zvučne teme 
+### Uređivanje aktivne zvučne teme:
 
-- Kada kliknete na opciju 'Uređivanje aktivne zvučne teme, otvorit će se
-  dijaloški okvir koji sadrži popis svih zvukova dostupnih u trenutno
-  aktivnoj zvučnoj temi. U ovom dijaloškom okviru možete 
-- Promijeni odabrano: biranje nekog zvuka iz popisa i aktiviranje ovog gumba
-  otvorit će standardni dijaloški okvir za otvaranje datoteke, izaberite
-  neku ogg ili wav datoteku koja će zamijeniti odabrani zvuk i kliknite na
-  uredu da završite proces.
-- Uklanjanje odabranog zvuka: ova opcija će ukloniti trenutni zvuk iz teme,
-  kliknite da kako biste završili uklanjanje i zvuk koji ste odabrali će
-  biti uklonjen.
-- dodajte novi zvuk: kada kliknete na ovaj gumb, novi dijaloški okvir će biti prikazan. Iz prvog odabirnog okvira izaberite tip objekta kojem želite pridružiti zvuk, na primjer(gumb, izbornik, link, kartica, i tako dalje), a zatim kliknite na pronađite zvučnu datoteku kako biste izabrali zvuk koji će se reproducirati za prethodno izabrani objekt. Možete aktivirati gumb pregled kako biste čuli odabrani zvuk i nakon što kliknete na gumb uredu, promjene će biti primijenjene i izabrani zvuk će biti korišten za odabrani tip objekta. 
-- zatvori: Izlazi iz dijaloga bez ikakvih promjena.
+- Klikom na opciju „Uređivanje aktivne zvučne teme”, otvorit će se dijaloški
+  okvir koji sadrži popis svih zvukova dostupnih u trenutačno aktivnoj
+  zvučnoj temi. Ovaj dijaloški okvir omogućuje:
+- Promijeni odabrano: biranje nekog zvuka iz popisa i aktiviranje ovog
+  gumba, otvorit će standardni dijaloški okvir za otvaranje
+  datoteke. Odaberi neku ogg ili wav datoteku koja će zamijeniti odabrani
+  zvuk i klikni gumb „U redu” za završavanje procesa.
+- Ukloni odabrano: ova opcija će ukloniti odabrani zvuk iz teme. Za
+  potvrđivanje uklanjanja, klikni na „Da”. Odabrani zvuk će biti uklonjen.
+- Dodaj novi zvuk: kad klikneš na ovaj gumb, prikazat će se novi dijaloški okvir. Iz prvog odabirnog okvira odaberi vrstu objekta kojem želiš pridružiti zvuk, na primjer (gumb, izbornik, poveznica, kartica i tako dalje), a zatim klikni na „Pronađi zvučnu datoteku”, za biranje zvuka, koji će se reproducirati za prethodno odabrani objekt. Klikni na gumb za pregled, za slušanje odabranog zvuka. Klikom na gumb „U redu” će se promjene primijeniti i odabrani zvuk će se koristiti za odabranu vrstu objekta. 
+- Zatvori: Izlazi iz dijaloga bez promjena.
 
-### Kreiranje nove zvučne teme 
+### Kreiranje nove zvučne teme
 
-- Ako imate dobre vještine za dizajn zvukova, možete ih primijeniti ovdje i
-napraviti vašu temu, umjesto uređivanja postojeće. Kako biste to učinili,
-pratite sljedeće korake.  - Skupite sve vaše zvukove u jednu mapu, oni
-moraju biti u ogg ili wav formatu, te ih preimenujte u ono što vama
-odgovara. Na primjer kada sam pravio podrazumijevanu temu za ovaj dodatak,
-grupirao sam zvukove prema oblicima interakcije, na primjer, izborni okvir,
-padajući okvir, i gumb za razdvajanje mogu imati isti zvuk, dok izborni
-okvir, tipka prekidača i odabiruća stavka izbornika mogu imati isti zvuk.  -
-U izborniku dodatka odaberite napravi novu temu- bit će otvoren dijaloški
-okvir koji zahtijeva informacije o vašoj temi, uključujući: *	ime teme : Ime
-teme koje će biti prikazano u dijaloškom okviru za upravljanje zvučnim
-temama. Ovo mora biti ispravno windows ime.  *	Vaše ime: Upišite vaše pravo
-ime ili nadimak.  *	Opis teme : kratak opis vaše teme.  - Aktivirajte gumb
-uredu da pređete na sljedeći korak.  - U sljedećem dijaloškom okviru,
-dijaloški okvir sličan uređivanju zvučnih tema će biti otvoren i odatle
-proces je isti kao i uređivanje zvučne teme, pa pogledajte sekciju za
-uređivanje aktivne zvučne teme.
+- Ako znaš dizajnirati zvukove, možeš ih primijeniti ovdje i napraviti
+vlastitu temu, umjesto uređivanja postojeće. Evo kako: - Skupi sve svoje
+zvukove u jednu mapu (moraju biti u ogg ili wav formatu) te ih preimenuj
+kako god želiš. Na primjer, prilikom izrade standardne teme za ovaj dodatak,
+zvukovi su grupirani prema oblicima interakcije. Na primjer, izborni okvir,
+padajući okvir i gumb za razdvajanje mogu imati isti zvuk, dok izborni
+okvir, tipka prekidača i odabiruća stavka izbornika mogu imati jedan drugi
+zvuk. - U izborniku dodatka odaberi „Stvori novu temu” – otvorit će se
+dijaloški okvir koji zahtijeva informacije o temi, uključujući: *	Ime teme:
+Ime teme koje će biti prikazano u dijaloškom okviru za upravljanje zvučnim
+temama. Ovo mora biti ispravno ime za windows mapu. *	Vlastito ime: Upiši
+svoje pravo ime ili nadimak. *	Opis teme: kratak opis teme. - Aktiviraj gumb
+„U redu” za prelazak na sljedeći korak. - U sljedećem dijaloškom okviru,
+otvorit će se dijaloški okvir koji je sličan kao „Uređivač zvučnih
+tema”. Daljnje radnje su isti kao i za uređivanje zvučne teme, pa pogledaj
+odjeljak „Uređivanje aktivne zvučne teme”.
 
-## Autorska prava 
+## Autorska prava:
 
-Autorska prava i drugi 
+Autorska prava (c) 2014. – 2016. Musharraf Omer i drugi
 
-Iako je ovaj dodatak počeo kao nezavisan projekt , Razvio se kao poboljšana
-verzija dodatka unspoken autora Austina Hicksa i Bryana Smarta. Većina
-razvoja ovog dodatka bilo je pravljenje alatki za upravljanje, uređivanje i
-pravljenje tema. Velika zahvalnost njima za pravljenje odličnog dodatka, na
-kojem smo radili.
+Iako je ovaj dodatak počeo kao nezavisan projekt, razvio se kao poboljšana
+verzija dodatka „Unspoken”, autora Austina Hicksa i Bryana Smarta. U razvoju
+ovog dodatka je utrošeno najviše vremena na pravljenje alatki za
+upravljanje, uređivanje i izradu paketa tema. Velika im hvala za pravljenje
+odličnog dodatka, koji nam je koristio kao osnova.
 
-## Napomena za zvukove 
+## Napomena o zvukovima trećih stranki:
 
-Podrazumijevana tema koristi više različitih zvukova, ovdje su mjesta sa
-kojih ti zvukovi dolaze: - Unspoken 3D Audio: Dodatak za NVDA - TWBlue:
-Besplatan twitter klijent, otvorenog koda- Mushy TalkBack: Alternativan
-talkback sa boljim zvukovima.
+Standardna tema koristi različite izvore zvukova. Izvori su: - Unspoken 3D
+Audio: Dodatak za NVDA, - TWBlue: Besplatan twitter klijent, otvorenog koda,
+- Mushy TalkBack: Alternativan talkback s boljim zvukovima.
 
-## Licenca 
-Licencirano pod GNU General Public License. Pročitajte datoteku copying za
-više detalja.
+## Licenca
+Licencirano pod GNU općom javnom licencom. Pročitaj datoteku **copying** za
+daljnje detalje.
 
 [[!tag dev]]
 
