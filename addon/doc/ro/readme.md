@@ -31,7 +31,7 @@ găsit în în meniul principal al NVDA.
  - utilizează volumul sintetizatorului: Bifând această casetă veți seta playerul sunetului la acest add-on pentru a utiliza sunetul vocal activ făcând astfel toate ieșirile sonore la fel ca și volumul vocii atunci când vreodată vă schimbați acel volum.
  - Glisorul de volum al temei audio: Alternativ, Puteți seta volumul pentru add-on folosind acest glisor. Setându-l la valoarea 0 veți dezactiva toate sunetele, iar 100 este valoarea maximă.
 
-### Editarea temei audio active
+### Editarea temei audio active:
 
 - Când clicați pe opțiunea 'Editați tema audio', un dialog se va deschide cu
   o listă care conține toate sunetele din care este alcătuită tema audio
@@ -39,7 +39,7 @@ găsit în în meniul principal al NVDA.
 - Modificați selecția: Selectând un sunet din listă și apăsând acest buton,
   va deschide un dialog cu un deschizător standard de fișiere, selectați un
   fișier audio ogg sau wave din computer pentru a înlocui sunetul selectat,
-  apoi clicați pe OK pentru a completa procesul. 
+  apoi clicați pe OK pentru a completa procesul.
 - Ștergeți selecția: Aceasta va șterge sunetul selectat din temă, dați un
   click pe 'Da' pentru a confirma procesul de ștergere și sunetul selectat
   va fi șters.
@@ -74,7 +74,7 @@ Drepturi de autor (c) 2014-2016 Musharraf Omer și alții
 
 Cu toate că acest supliment a fost început ca un proiect independent, acesta
 a evoluat pentru a fi o versiune îmbunătățită a suplimentului 'Unspoken' de
-Austin Hicks și Bryan Smart. 
+Austin Hicks și Bryan Smart.
 
 ## O notă privind fișierele audio:
 
