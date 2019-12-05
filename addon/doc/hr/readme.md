@@ -26,9 +26,9 @@ glavnom NVDA izborniku.
   deaktiviranje zvučnih tema, kao i njihovo instaliranje ili uklanjanje.
 - U ovom dijaloškom okviru se nalaze i neke dodatne opcije uključujući:
  - Reproduciraj zvukove u 3d modusu: Kad je ova opcija isključena, dodatak će uvijek reproducirati zvukove u mono modusu (uvijek u centru zvučnog prikaza) neovisno o lokaciji objekta.
- - Izgovori naziv kao što je gumb, polje za uređivanje, poveznica itd.: Kad je ova opcija isključena, NVDA će izgovarati nazive objekata (standardni način rada nakon instaliranja ovog dodatka).
- - Koristi glasnoću govorne jedinice: uključivanjem ove opcije, dodatak će koristiti glasnoću govorne jedinice, čime se izjednačava glasnoća zvukova, čak i kad se smanji glasnoća govorne jedinice.
- - Klizač za glasnoću zvučne teme: Alternativno je moguće podesiti glasnoću dodatka uz pomoć ovog klizača. Ako je podešen na 0, svi zvukovi će biti isključeni, a 100 je maksimalna glasnoća.
+ - Izgovori ulogu kao što je gumb, polje za uređivanje, poveznica itd.: Kad je ova opcija isključena, NVDA će početi izgovarati ulogu tijekom fokusiranja objekta, umjesto da je zanemari (što je standardni način rada kad se instalira ovaj dodatak).
+ - Koristi glasnoću govorne jedinice: Kad se opcija označi, dodatak će koristiti glasnoću govorne jedinice, čime se izjednačava glasnoća zvukova, čak i kad se smanji glasnoća govorne jedinice.
+ - Klizač za glasnoću zvučne teme: Alternativno je moguće podesiti glasnoću dodatka uz pomoć ovog klizača. Ako se postavi na 0, svi zvukovi će biti isključeni. 100 je maksimalna glasnoća.
 
 ### Uređivanje aktivne zvučne teme:
 
